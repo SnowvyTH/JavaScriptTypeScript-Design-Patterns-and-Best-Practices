@@ -20,5 +20,5 @@ class User2 {
     }
 }
 
-const u2 = new User("Bob Doe")
+const u2 = new User2("Bob Doe")
 console.log(u2.getFullname())
