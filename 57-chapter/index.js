@@ -1,0 +1,1 @@
+// ใช้ chunking + parallel uploading สำหรับไฟล์ขนาดใหญ่
